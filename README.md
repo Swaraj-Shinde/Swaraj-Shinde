@@ -23,21 +23,18 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   &nbsp;
-</p>
   <a href="mailto:officially.swaraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
----
  
 Executing a structured 3-year plan toward **quantitative engineering** and top-tier software roles.
 Building the full stack of skills: DSA, systems programming, probability, and financial mathematics — in the right order, at the right depth.
  
 Not collecting tutorials. Building things I can explain end-to-end.
- 
+
 ---
----
- 
+
 ## What I'm Working On — Semester 3 (Jul–Nov 2025)
  
 | Domain | Focus | Target |
@@ -78,47 +75,20 @@ Not collecting tutorials. Building things I can explain end-to-end.
 ---
  
 ## Projects
- 
-<!--
-  PROJECT CARD FORMAT (copy-paste for each new project):
-  ### [Project Name](github-link)
-  One sentence: what it does and why it's interesting.
-  `tech` `stack` `badges` · [GitHub](link) · [Live Demo](link)
-  Key decisions you made:
-  - Bullet 1
-  - Bullet 2
 
- 
-### [Personal Finance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/finance-dashboard) *(building — Nov 2025)*
-Reads bank statement CSVs, auto-categorizes transactions by merchant, and generates interactive monthly spending reports with export.  
+### Personal Finance Dashboard *(Currently Building)*
+
+Reads bank statement CSVs, auto-categorizes transactions, and generates interactive monthly spending analytics.
+
 `Python` `Flask` `SQLite` `Pandas` `Plotly`
+
+- Rule-based merchant classification
+- Interactive spending charts
+- CSV parsing + export support
+- Learning backend architecture + data visualization
+
+*Repository: Coming after MVP completion.*
  
-- Rule-based categorizer (keyword → category mapping) with edge-case handling for malformed rows
-- Plotly interactive charts: spending by category, daily trend line, top merchants
-- Full pytest suite targeting 80%+ coverage
----
-
-Projects
-<!--
-  PROJECT CARD FORMAT (copy-paste for each new project):
-
-  ### [Project Name](github-link)
-  One sentence: what it does and why it's interesting.
-  `tech` `stack` `badges` · [GitHub](link) · [Live Demo](link)
-
-  Key decisions you made:
-  - Bullet 1
-  - Bullet 2
-
-Personal Finance Dashboard (building — Nov 2025)
-Reads bank statement CSVs, auto-categorizes transactions by merchant, and generates interactive monthly spending reports with export.
-Python Flask SQLite Pandas Plotly
-
-Rule-based categorizer (keyword → category mapping) with edge-case handling for malformed rows
-Plotly interactive charts: spending by category, daily trend line, top merchants
-Full pytest suite targeting 80%+ coverage
-
-
 <!--
   UNCOMMENT EACH PROJECT AS YOU COMPLETE IT:
 
@@ -161,7 +131,9 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 - Python replay layer ingests 1M+ tick samples from Nasdaq ITCH 5.0 historical data
 -->
 
-Activity
+---
+
+## Github Activity
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Swaraj-Shinde&show_icons=true&hide_border=true&theme=github_dark_dimmed&include_all_commits=true&count_private=false&hide=prs,issues&custom_title=GitHub+Activity"
@@ -198,5 +170,5 @@ Preparation includes stochastic processes, options theory (Hull), and probabilit
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swarajshinde1/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:officially.swaraj@gmail.com">YOUR_EMAIL</a>
+  <a href="mailto:officially.swaraj@gmail.com">officially.swaraj@gmail.com</a>
 </p>
