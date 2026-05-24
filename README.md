@@ -24,7 +24,7 @@
   </a>
   &nbsp;
   <a href="mailto:officially.swaraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
  
