@@ -28,29 +28,75 @@
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-Executing a structured 3-year plan toward quantitative engineering and top-tier software roles.
+---
+ 
+Executing a structured 3-year plan toward **quantitative engineering** and top-tier software roles.
 Building the full stack of skills: DSA, systems programming, probability, and financial mathematics — in the right order, at the right depth.
+ 
 Not collecting tutorials. Building things I can explain end-to-end.
+ 
+---
+---
+ 
+## What I'm Working On — Semester 3 (Jul–Nov 2025)
+ 
+| Domain | Focus | Target |
+|--------|-------|--------|
+| **DSA** | NeetCode 150: Arrays → Linked Lists → Trees → Heaps | 150 problems, Mediums consistently |
+| **Mathematics** | MIT 18.06 Linear Algebra (Strang) — Lectures + all problem sets | Eigenvalues, projections, four subspaces |
+| **Python** | CS 61A Berkeley — building, not watching | Generators, OOP, functional patterns |
+| **SQL** | SQLZoo → LeetCode SQL — window functions focus | JOIN, GROUP BY, PARTITION BY fluent |
+| **Competitive Programming** | Codeforces Div 4 → Div 3 virtual contests weekly | Rating: 900+ (Pupil) |
+| **Project** | Personal Finance Dashboard | Flask · SQLite · Pandas · Plotly |
+ 
+---
+ 
+## Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**Tools & Environment**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+ 
+**Currently Using**
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+ 
+**Semester 4 → (planned):** C++ STL deep dive · FastAPI · PostgreSQL · React basics · Docker
+ 
+---
+ 
+## Projects
+ 
+<!--
+  PROJECT CARD FORMAT (copy-paste for each new project):
+  ### [Project Name](github-link)
+  One sentence: what it does and why it's interesting.
+  `tech` `stack` `badges` · [GitHub](link) · [Live Demo](link)
+  Key decisions you made:
+  - Bullet 1
+  - Bullet 2
 
-What I'm Working On — Semester 3 (Jul–Nov 2025)
-DomainFocusTargetDSANeetCode 150: Arrays → Linked Lists → Trees → Heaps150 problems, Mediums consistentlyMathematicsMIT 18.06 Linear Algebra (Strang) — Lectures + all problem setsEigenvalues, projections, four subspacesPythonCS 61A Berkeley — building, not watchingGenerators, OOP, functional patternsSQLSQLZoo → LeetCode SQL — window functions focusJOIN, GROUP BY, PARTITION BY fluentCompetitive ProgrammingCodeforces Div 4 → Div 3 virtual contests weeklyRating: 900+ (Pupil)ProjectPersonal Finance DashboardFlask · SQLite · Pandas · Plotly
-
-Stack
-Languages
-Show Image
-Show Image
-Show Image
-Tools & Environment
-Show Image
-Show Image
-Show Image
-Show Image
-Currently Using
-Show Image
-Show Image
-Show Image
-Show Image
-Semester 4 → (planned): C++ STL deep dive · FastAPI · PostgreSQL · React basics · Docker
+ 
+### [Personal Finance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/finance-dashboard) *(building — Nov 2025)*
+Reads bank statement CSVs, auto-categorizes transactions by merchant, and generates interactive monthly spending reports with export.  
+`Python` `Flask` `SQLite` `Pandas` `Plotly`
+ 
+- Rule-based categorizer (keyword → category mapping) with edge-case handling for malformed rows
+- Plotly interactive charts: spending by category, daily trend line, top merchants
+- Full pytest suite targeting 80%+ coverage
+---
 
 Projects
 <!--
@@ -63,7 +109,7 @@ Projects
   Key decisions you made:
   - Bullet 1
   - Bullet 2
--->
+
 Personal Finance Dashboard (building — Nov 2025)
 Reads bank statement CSVs, auto-categorizes transactions by merchant, and generates interactive monthly spending reports with export.
 Python Flask SQLite Pandas Plotly
