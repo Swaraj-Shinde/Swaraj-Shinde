@@ -28,7 +28,7 @@
   </a>
 </p>
  
-Executing a structured 3-year plan toward **quantitative engineering** and top-tier software roles.
+Executing a structured 3-year plan towards **quantitative engineering** and top-tier software roles.
 Building the full stack of skills: DSA, systems programming, probability, and financial mathematics — in the right order, at the right depth.
  
 Not collecting tutorials. Building things I can explain end-to-end.
