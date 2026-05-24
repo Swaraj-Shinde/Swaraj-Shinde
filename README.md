@@ -136,23 +136,19 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 ## Github Activity
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Swaraj-Shinde&show_icons=true&hide_border=true&theme=github_dark_dimmed&include_all_commits=true&count_private=false&hide=prs,issues&custom_title=GitHub+Activity"
+    src="https://github-readme-stats.vercel.app/api?username=Swaraj-Shinde&show_icons=true&theme=tokyonight&hide_border=true"
     height="160"
     alt="GitHub stats"
   />
-  &nbsp;
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Shinde&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=4&hide=html,css,jupyter+notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaraj-Shinde&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
     alt="Top languages"
   />
 </p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Swaraj-Shinde&hide_border=true&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub streak"
-  />
-</p>
+
+---
 
 <!--Problem Solving
 PlatformProfileCurrent StatusLeetCodeYOUR_LEETCODE[X] solved · [Y] Easy · [Z] Medium · [W] HardCodeforcesYOUR_CODEFORCESRating: [XXXX] · [Division]CSES—[X] / 300 problems
