@@ -132,7 +132,6 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 -->
 
 ---
-
 ## Github Activity
 <p align="center">
   <img
@@ -142,18 +141,11 @@ C++ matching engine implementing price-time priority for a limit order book, wit
   />
   &nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
     height="160"
     alt="GitHub streak"
   />
 </p>
-
-<p align="center">
-<img
-  src="https://nirzak-streak-stats.vercel.app/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
-  height="160"
-  alt="GitHub streak"
-/>
 
 ---
 
