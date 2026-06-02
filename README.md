@@ -142,7 +142,7 @@ C++ matching engine implementing price-time priority for a limit order book, wit
   />
   &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
     height="160"
     alt="GitHub streak"
   />
@@ -150,7 +150,7 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 
 <p align="center">
   <img
-    src="(https://streak-stats.demolab.com/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true)&langs_count=5"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swaraj-Shinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
     height="130"
     alt="Top languages"
   />
