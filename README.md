@@ -135,13 +135,11 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Swaraj-Shinde">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Swaraj-Shinde&theme=tokyo-night&hide_border=true&area=true" 
-      width="100%"
-      alt="Contribution graph"
-    />
-  </a>
+  <img src="https://ghchart.rshah.org/39d353/Swaraj-Shinde" width="100%" alt="Contribution grid" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaraj-Shinde&theme=tokyo-night&hide_border=true" width="100%" alt="Activity graph" />
 </p>
 
 ---
