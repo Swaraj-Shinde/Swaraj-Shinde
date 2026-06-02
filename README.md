@@ -149,12 +149,11 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swaraj-Shinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=5"
-    height="130"
-    alt="Top languages"
-  />
-</p>
+<img
+  src="https://nirzak-streak-stats.vercel.app/?user=Swaraj-Shinde&theme=tokyonight&hide_border=true"
+  height="160"
+  alt="GitHub streak"
+/>
 
 ---
 
