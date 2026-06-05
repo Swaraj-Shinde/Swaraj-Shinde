@@ -154,7 +154,7 @@ Sem 7  HFT Limit Order Book Engine     C++17 · Market microstructure
 Quant finance target: Quantitative Developer roles at proprietary trading firms.
 Preparation includes stochastic processes, options theory (Hull), and probability (Blitzstein).-->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/swarajshinde1/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:officially.swaraj@gmail.com">officially.swaraj@gmail.com</a>
-</p>
+</p> -->
