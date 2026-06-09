@@ -70,7 +70,7 @@ Not collecting tutorials. Building things I can explain end-to-end.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
  
-<!--**Semester 4 → (planned):** C++ STL deep dive · FastAPI · PostgreSQL · React basics · Docker -->
+**Semester 4 → (planned):** C++ STL deep dive · FastAPI · PostgreSQL · React basics · Docker
  
 ---
  
