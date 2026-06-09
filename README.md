@@ -144,7 +144,7 @@ C++ matching engine implementing price-time priority for a limit order book, wit
 PlatformProfileCurrent StatusLeetCodeYOUR_LEETCODE[X] solved · [Y] Easy · [Z] Medium · [W] HardCodeforcesYOUR_CODEFORCESRating: [XXXX] · [Division]CSES—[X] / 300 problems
 Update this table manually each month.-->
 
-<!--Roadmap
+Roadmap
 The project trajectory is intentional, not random. Each semester's project is harder than the last:
 Sem 3  Personal Finance Dashboard      Python · Flask · SQLite          ← now
 Sem 4  CP Leaderboard & Rating Tracker FastAPI · PostgreSQL · React
@@ -152,7 +152,7 @@ Sem 5  Algorithmic Trading Backtester  Python · Pandas · Streamlit
 Sem 6  Options Pricing Calculator      NumPy · SciPy · Black-Scholes math
 Sem 7  HFT Limit Order Book Engine     C++17 · Market microstructure
 Quant finance target: Quantitative Developer roles at proprietary trading firms.
-Preparation includes stochastic processes, options theory (Hull), and probability (Blitzstein).-->
+Preparation includes stochastic processes, options theory (Hull), and probability (Blitzstein)
 
  <p align="center">
   <a href="https://www.linkedin.com/in/swarajshinde1/">LinkedIn</a> &nbsp;·&nbsp;
